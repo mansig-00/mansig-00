@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mansig-00
-- 👀 I’m interested in problem solving
+- 👀 I’m interested in problem solving, Data analytics
 - 🌱 I’m currently learning DSA in java and Blockchain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I love playing with Data
+- 📫 How to reach me guptamansi2224@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: there's always a python project pulling me...
 
