@@ -8,11 +8,19 @@ Languages: Java, Python(Machine learning + Pandas Matplot)
 Frameworks: Mongodb 
 
 📌 Featured Projects:
-
-Retail Sales & Customer Analytics Pipeline End-to-end analytics pipeline on 129K+ real e-commerce transactions — Python/Pandas cleaning, a normalized MySQL schema, SQL analysis with CTEs and window functions, and a Power BI + Excel dashboard surfacing revenue, cancellation, and fulfillment KPIs.
-
+#ALGOTRADING BOT
 AlgoTrading Bot A Golden Cross/Death Cross SMA trading strategy implemented three ways — a random-walk backtester, a Pandas-driven CSV backtester, and a multithreaded live-simulation system with real-time animated visualization.
 
+Check it out: https://github.com/mansig-00/AlgoTrading-Bot
+
+#CURRENCY EXCHANGE
+I also had the pleasure of completing my CS50p Course issued by Harvard, taught by David Malan
+and for it's final Project i made a basic Currency converter which uses API from Exchange-rates website and Converts From one currency to another in real time.
+
+Check it out: 
+
+#RETAIL SALES AND CUSTOMER ANALYSIS
+Retail Sales & Customer Analytics Pipeline End-to-end analytics pipeline on 129K+ real e-commerce transactions — Python/Pandas cleaning, a normalized MySQL schema, SQL analysis with CTEs and window functions, and a Power BI + Excel dashboard surfacing revenue, cancellation, and fulfillment KPIs.
 🌱 Currently
 Preparing for graduate-level Data Analyst roles — always open to freelance data projects, internships, or a conversation about data!
 
