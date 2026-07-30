@@ -11,6 +11,8 @@ Projects:
    1)[AMAZON RETAIL SALES AND CUSTOMER ANALYSIS](https://github.com/mansig-00/Retails-and-Sales-Analysis)
    
    2)[ALGOTRADING BOT](https://github.com/mansig-00/AlgoTrading-Bot)
+   
+   3) [CURRENCY EXCHANGE](https://github.com/mansig-00/Currency-Exchange)
 
    
 ## Tech Stack
