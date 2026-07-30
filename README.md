@@ -3,8 +3,13 @@
 
 
 
-# Table of Contents    
+# Table of Contents   
+Skills
+Projects
+   1)[AMAZON RETAIL SALES AND CUSTOMER ANALYSIS](https://github.com/mansig-00/Retails-and-Sales-Analysis)
+   2)[ALGOTRADING BOT](https://github.com/mansig-00/AlgoTrading-Bot)
 
+   
 ## Tech Stack
 ### Languages & Analysis: Python (Pandas, NumPy) · SQL · Statistics Databases: MySQL 
 ### Visualization & BI: Power BI (DAX) · Excel (PivotTables, XLOOKUP/INDEX-MATCH) 
