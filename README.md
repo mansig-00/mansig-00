@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Mansi 
-##     I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data an dplaying around data for people to visualize it. I build end-to-end analytics projects — from cleaning raw, real-world data to shipping SQL pipelines, dashboards, and reports that someone could actually use to make a decision.
+###   I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data and playing around data. I build end-to-end analytics projects — from cleaning raw, real-world data to shipping SQL pipelines, dashboards, and reports that someone could actually use to make a decision.
+
 
 
 # Table of Contents    
@@ -31,7 +32,7 @@ Check it out: https://github.com/mansig-00/Retails-and-Sales-Analysis
 ## Tech: Python, Matplotlib, pandas, numpy, Machine learning
 ##  Understanding of Stock market, Statistics
 
-### AlgoTrading Bot A Golden Cross/Death Cross SMA trading strategy implemented three ways — a random-walk backtester, a Pandas-driven CSV backtester, and a multithreaded live-simulation system with real-time animated visualization.
+ AlgoTrading Bot A Golden Cross/Death Cross SMA trading strategy implemented three ways — a random-walk backtester, a Pandas-driven CSV backtester, and a multithreaded live-simulation system with real-time animated visualization.
 
 
 Check it out: https://github.com/mansig-00/AlgoTrading-Bot
