@@ -5,9 +5,10 @@
 
 # Table of Contents   
 Skills
-Projects
+
+Projects:
+
    1)[AMAZON RETAIL SALES AND CUSTOMER ANALYSIS](https://github.com/mansig-00/Retails-and-Sales-Analysis)
-   
    2)[ALGOTRADING BOT](https://github.com/mansig-00/AlgoTrading-Bot)
 
    
