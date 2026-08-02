@@ -1,25 +1,24 @@
 ## 👋 Hi, I’m Mansi 
-###   I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data and playing around data. I build end-to-end analytics projects — from cleaning raw, real-world data to shipping SQL pipelines, dashboards, and reports that someone could actually use to make a decision.
+   I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data and playing around data. I build end-to-end analytics projects — from cleaning raw, real-world data to shipping SQL pipelines, dashboards, and reports that someone could actually use to make a decision.
 
 
 
 # Table of Contents   
-Skills
 
-Projects:
+### Projects:
    1)[Credit-Risk Portfolio Analysis](https://github.com/mansig-00/Credit-Portfolio-Risk-analysis)
 
    2)[Amazon Retail Sales And Customer Analysis](https://github.com/mansig-00/Retails-and-Sales-Analysis)
    
    3)[Algotrading Bot](https://github.com/mansig-00/AlgoTrading-Bot)
    
-   4) [Currency Exchange](https://github.com/mansig-00/Currency-Exchange)
+   4)[Currency Exchange](https://github.com/mansig-00/Currency-Exchange)
 
    
 ## Tech Stack
-### Languages & Analysis: Python (Pandas, NumPy) · SQL · Statistics Databases: MySQL 
-### Visualization & BI: Power BI (DAX) · Excel (PivotTables, XLOOKUP/INDEX-MATCH) 
-### Languages: Java, Python(Machine learning + Pandas Matplot)
+ Languages & Analysis: Python (Pandas, NumPy) · SQL · Statistics Databases: MySQL 
+ Visualization & BI: Power BI (DAX) · Excel (PivotTables, XLOOKUP/INDEX-MATCH) 
+ Languages: Java, Python(Machine learning + Pandas Matplot)
 
 
 # 📌 Featured Projects:
