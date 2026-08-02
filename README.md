@@ -7,12 +7,13 @@
 Skills
 
 Projects:
+   1)[Credit-Risk Portfolio Analysis](https://github.com/mansig-00/Credit-Portfolio-Risk-analysis)
 
-   1)[AMAZON RETAIL SALES AND CUSTOMER ANALYSIS](https://github.com/mansig-00/Retails-and-Sales-Analysis)
+   2)[Amazon Retail Sales And Customer Analysis](https://github.com/mansig-00/Retails-and-Sales-Analysis)
    
-   2)[ALGOTRADING BOT](https://github.com/mansig-00/AlgoTrading-Bot)
+   3)[Algotrading Bot](https://github.com/mansig-00/AlgoTrading-Bot)
    
-   3) [CURRENCY EXCHANGE](https://github.com/mansig-00/Currency-Exchange)
+   4) [Currency Exchange](https://github.com/mansig-00/Currency-Exchange)
 
    
 ## Tech Stack
@@ -22,6 +23,15 @@ Projects:
 
 
 # 📌 Featured Projects:
+
+
+# Credit-Risk Portfolio Analysis
+## Power Bi, Excel, MySQL
+
+
+## Key findings
+### 1. 
+
 
 # RETAIL SALES AND CUSTOMER ANALYSIS(Amazon- 2009-14)
 ## Power Bi, Excel, Python pandas
