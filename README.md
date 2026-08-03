@@ -8,7 +8,7 @@
 ### Projects:
    1)[Credit-Risk Portfolio Analysis](https://github.com/mansig-00/Credit-Portfolio-Risk-analysis)
 
-   2)[Amazon Retail Sales And Customer Analysis](https://github.com/mansig-00/Retails-and-Sales-Analysis)
+   2)[Amazon Retail Sales And Customer Analysis]([https://github.com/mansig-00/Retails-and-Sales-Analysis](https://github.com/mansig-00/Retails-Sales-Analysis/tree/main))
    
    3)[Algotrading Bot](https://github.com/mansig-00/AlgoTrading-Bot)
    
@@ -29,7 +29,7 @@
 
 
 ## Key findings
-### 1. 
+### Check it out: https://github.com/mansig-00/Credit-Portfolio-Risk-analysis
 
 
 # RETAIL SALES AND CUSTOMER ANALYSIS(Amazon- 2009-14)
@@ -43,10 +43,10 @@ Result: Scale: 128,975 order lines → 120,378 distinct orders, ₹7.86 crore (�
 Only 1.5% were returned after shipping — so once an order actually ships, it mostly stays sold. The problem is upstream of shipping, not post-delivery quality.
 Courier status confirms this: of 128,975 lines, 6,681 never got picked up (Unshipped) and 5,935 were cancelled at the courier stage — worth investigating whether this is inventory/stock-out driven.
 
-more in the [README](https://github.com/mansig-00/Retails-and-Sales-Analysis/blob/main/README.md) file of the project.
+more in the [README]([https://github.com/mansig-00/Retails-and-Sales-Analysis/blob/main/README.md](https://github.com/mansig-00/Retails-Sales-Analysis/blob/main/README.md)) file of the project.
 
-Check it out: https://github.com/mansig-00/Retails-and-Sales-Analysis
-
+Check it out: [https://github.com/mansig-00/Retails-and-Sales-Analysis
+](https://github.com/mansig-00/Retails-Sales-Analysis/tree/main)
 # ALGOTRADING BOT
 ## Tech: Python, Matplotlib, pandas, numpy, Machine learning
 ##  Understanding of Stock market, Statistics
