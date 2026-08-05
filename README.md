@@ -17,9 +17,12 @@
    
 ## Tech Stack
  Languages & Analysis: Python (Pandas, NumPy) · SQL · Statistics Databases: MySQL 
+ 
  Visualization & BI: Power BI (DAX) · Excel (PivotTables, XLOOKUP/INDEX-MATCH) 
+ 
  Languages: Java, Python(Machine learning + Pandas Matplot)
-
+ 
+ ML libraries, A/B testing, AI, LLMs, NLP, Salesforce, GCP, AWS
 
 # 📌 Featured Projects:
 
