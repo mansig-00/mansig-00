@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m Mansi 
-   I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data and playing around data. I build end-to-end analytics projects — from cleaning raw, real-world data to shipping SQL pipelines, dashboards, and reports that someone could actually use to make a decision.
+   I am doing my Bachelors in Information Technology (2023–2027), i am passionate about finding the story hidden in messy data and playing around data. I build machine learning models and end-to-end analytics projects — from cleaning raw, real-world data to 
+   Machine learning models, dashboards, and reports that someone could actually use to make a decision.
 
 
 
@@ -16,19 +17,17 @@
 
    
 ## Tech Stack
- Languages & Analysis: Python (Pandas, NumPy) · SQL · Statistics Databases: MySQL 
- 
+ Machine Learning models- CLassification and regression, Deep Learning, NLPs, AI, Tensorflow, LLMs, Scikit Learn
+ Languages & Analysis: Python (Pandas, NumPy, Scikit Learn, matplotlib, seaborn) · SQL , MySQL 
  Visualization & BI: Power BI (DAX) · Excel (PivotTables, XLOOKUP/INDEX-MATCH) 
- 
  Languages: Java, Python(Machine learning + Pandas Matplot)
  
- ML libraries, A/B testing, AI, LLMs, NLP, Salesforce, GCP, AWS
-
+ 
 # 📌 Featured Projects:
 
 
 # Credit-Risk Portfolio Analysis
-## Power Bi, Excel, MySQL
+## Pandas, Numpy, matplot, seaborn, scikit, Machine learning model- classification- XGB, Random forest, recall, precision, Power Bi, Excel, MySQL
 
 
 ## Key findings
